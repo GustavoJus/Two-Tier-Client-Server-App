@@ -1,4 +1,4 @@
-First open the Source Code Folder, then open
+First download every file in the Source Code Folder, then open
 the Root.properties, you will see: 
 db.password=YOUR_ROOT_PASSWORD
 Change it to your password, and save the file.
